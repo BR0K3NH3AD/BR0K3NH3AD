@@ -42,7 +42,6 @@
 ## Связаться со мной
 
 - YouTube: [BROKENHEADGameDev](https://www.youtube.com/@BROKENHEADGameDev)
-- Telegram: [BR0KENHEQD](https://t.me/BR0KENHEAD)
 - GitHub: [BR0K3NH3AD](https://github.com/BR0K3NH3AD)
 
 Спасибо за внимание! Буду рад вашим вопросам или предложениям по сотрудничеству. 😊
